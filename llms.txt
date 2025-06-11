@@ -1,0 +1,12 @@
+# FictionTribe GEO Playbook Repository
+
+> Open-source guide & examples for building effective /llms.txt files.
+> Maintained by the FictionTribe growth team.
+
+## Core Guides
+- [README – GEO Playbook](https://raw.githubusercontent.com/your-repo/main/README.md):
+  Full walk-through of strategy, workflow and validation steps.
+
+## Reference Docs
+- [Sample llms.txt](https://raw.githubusercontent.com/your-repo/main/llms.txt):
+  A living example of the file itself (meta, we know 🤓).
