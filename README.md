@@ -16,7 +16,7 @@
 -->
 
 <p align="center">
-  <img src="https://fictiontribe.com/logo.svg" alt="FictionTribe" width="160"/>
+  <img src="https://fictiontribe.com/assets/images/ft-logo-white.svg" alt="FictionTribe" width="160"/>
 </p>
 
 # FictionTribe GEO Playbook  
@@ -50,10 +50,6 @@ If you’re hungry for more visibility in ChatGPT, Gemini & friends, start here.
 Search bots index **everything** and decide later.  
 LLM retrievers, on the other hand, pay for every token they ingest—  
 so they *love* a concise roadmap.
-
-<div align="center">
-  <img src="https://fictiontribe.com/images/llms-roadmap.svg" width="65%" alt="Diagram showing llms.txt as a slim map between your content and LLMs">
-</div>
 
 *Small file, big leverage.*
 
